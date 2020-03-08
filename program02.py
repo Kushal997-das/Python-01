@@ -1,4 +1,4 @@
-#Q2.Enter three integers (i)print the largest of the three.
+#Q 02.Enter three integers (i)print the largest of the three.
                      #(ii)sum of all inputs.
                       #(iii)sum of non-duplicate number.
 #(i):
