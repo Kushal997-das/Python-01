@@ -4,6 +4,3 @@ if(x%2==0):
    print("number is even")
 else:
    print("it is a odd number")
-Output:
-enter a number6
-number is even
