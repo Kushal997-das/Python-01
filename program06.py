@@ -16,6 +16,6 @@ elif op=='/':
 elif op=='%':
    result=num1%num2
 else:
-   print(" press invalid operator")
+   print(" you press invalid operator")
 print(num1,op,num2,"=",result)
 
